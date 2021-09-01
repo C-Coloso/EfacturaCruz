@@ -10,7 +10,7 @@ namespace EfacturaCruz.Entidad
         public string GradoTitulo { get; set; }
         public string Fecha_Diploma { get; set; }
         public string Modalidad_Estudios { get; set; }
-        public string Institucion { get; set; }
+        public string Institucion2 { get; set; }
 
         public void Dispose()
         {
